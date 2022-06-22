@@ -15,5 +15,5 @@ My toolbox of useful courses and articles about web development.
 
 ## WebGL & Three.js
 - https://www.samroelants.com/blog/getting-started-with-webgl/
-- https://webglfundamentals.org/
+- https://webgl2fundamentals.org/
 - https://threejs.org/manual/
