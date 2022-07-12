@@ -18,6 +18,7 @@ My toolbox of useful courses and articles about web development.
 - https://www.joshwcomeau.com/operator-lookup/
 - https://maximorlov.com/linting-rules-for-asynchronous-code-in-javascript/
 - https://markodenic.com/use-console-log-like-a-pro/
+- https://component-party.dev/
 
 ## WebGL & Three.js
 - https://www.samroelants.com/blog/getting-started-with-webgl/
